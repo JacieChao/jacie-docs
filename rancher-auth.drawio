@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="BPdtSX4ZB7zonuX3Ws21">
-    <mxGraphModel dx="2521" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2069" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xmcc4s5ayD0104nvWvzn-1" value="Rancher Server&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-281" y="90" width="480" height="210" as="geometry" />
+          <mxGeometry x="-281" y="90" width="591" height="210" as="geometry" />
         </mxCell>
         <mxCell id="xmcc4s5ayD0104nvWvzn-2" value="Authentication P&lt;span style=&quot;background-color: initial;&quot;&gt;roxy&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-261" y="130" width="130" height="60" as="geometry" />
@@ -16,8 +16,8 @@
         <mxCell id="xmcc4s5ayD0104nvWvzn-4" value="Jack&lt;div&gt;(Login from AD&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-421" y="190" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xmcc4s5ayD0104nvWvzn-5" value="AD Auth Provider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="140" width="120" height="40" as="geometry" />
+        <mxCell id="xmcc4s5ayD0104nvWvzn-5" value="AuthProvider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6" y="140" width="94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xmcc4s5ayD0104nvWvzn-6" value="RKE2 Custom Cluster" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-763" y="371" width="450" height="209" as="geometry" />
@@ -187,6 +187,33 @@
         <mxCell id="xmcc4s5ayD0104nvWvzn-76" value="RBAC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xmcc4s5ayD0104nvWvzn-75">
           <mxGeometry x="-0.1607" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmcc4s5ayD0104nvWvzn-80" value="SAML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xmcc4s5ayD0104nvWvzn-81" value="AD/OpenLDAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xmcc4s5ayD0104nvWvzn-82" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xmcc4s5ayD0104nvWvzn-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xmcc4s5ayD0104nvWvzn-5" target="xmcc4s5ayD0104nvWvzn-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="150" as="sourcePoint" />
+            <mxPoint x="160" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmcc4s5ayD0104nvWvzn-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xmcc4s5ayD0104nvWvzn-5" target="xmcc4s5ayD0104nvWvzn-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="210" as="sourcePoint" />
+            <mxPoint x="180" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmcc4s5ayD0104nvWvzn-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xmcc4s5ayD0104nvWvzn-5" target="xmcc4s5ayD0104nvWvzn-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="390" as="sourcePoint" />
+            <mxPoint x="60" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
