@@ -98,9 +98,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xmcc4s5ayD0104nvWvzn-67" value="request with Impersonate headers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="xmcc4s5ayD0104nvWvzn-56">
+        <mxCell id="xmcc4s5ayD0104nvWvzn-67" value="&lt;div&gt;Generate request User and group with UserInfo&lt;/div&gt;request with Impersonate headers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="xmcc4s5ayD0104nvWvzn-56">
           <mxGeometry x="-0.9335" y="-4" relative="1" as="geometry">
-            <mxPoint x="28" as="offset" />
+            <mxPoint x="79" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xmcc4s5ayD0104nvWvzn-58" value="kube-api-auth" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
