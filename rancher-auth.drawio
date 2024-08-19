@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xmcc4s5ayD0104nvWvzn-51" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-676" y="659" width="40" height="60" as="geometry" />
+          <mxGeometry x="-676" y="614" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xmcc4s5ayD0104nvWvzn-53" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xmcc4s5ayD0104nvWvzn-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -107,7 +107,7 @@
           <mxGeometry x="-460" y="440" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="xmcc4s5ayD0104nvWvzn-60" value="Mike&lt;div&gt;(Login from AD)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-703.5" y="729" width="95" height="30" as="geometry" />
+          <mxGeometry x="-703.5" y="684" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xmcc4s5ayD0104nvWvzn-63" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;dashPattern=8 8;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xmcc4s5ayD0104nvWvzn-51" target="xmcc4s5ayD0104nvWvzn-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
