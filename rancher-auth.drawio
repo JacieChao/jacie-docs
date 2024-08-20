@@ -190,36 +190,34 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U2JxWGvwvY309hiPcasM-40" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" edge="1" parent="1" source="U2JxWGvwvY309hiPcasM-24" target="xmcc4s5ayD0104nvWvzn-68">
+        <mxCell id="U2JxWGvwvY309hiPcasM-40" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" edge="1" parent="1" source="U2JxWGvwvY309hiPcasM-24" target="xmcc4s5ayD0104nvWvzn-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-330" y="600" as="sourcePoint" />
             <mxPoint x="-280" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="323" />
               <mxPoint x="80" y="560" />
-              <mxPoint x="-490" y="560" />
-              <mxPoint x="-490" y="727" />
+              <mxPoint x="-556" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U2JxWGvwvY309hiPcasM-41" value="Translate to Kubernete RBAC and Create ClusterRole/ClusterRoleBinding" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="U2JxWGvwvY309hiPcasM-40">
+        <mxCell id="U2JxWGvwvY309hiPcasM-41" value="Translate CRTB to Kubernete RBAC and Create ClusterRole/ClusterRoleBinding" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="U2JxWGvwvY309hiPcasM-40">
           <mxGeometry x="0.3333" y="1" relative="1" as="geometry">
             <mxPoint x="83" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U2JxWGvwvY309hiPcasM-43" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="U2JxWGvwvY309hiPcasM-25" target="xmcc4s5ayD0104nvWvzn-68">
+        <mxCell id="U2JxWGvwvY309hiPcasM-43" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="U2JxWGvwvY309hiPcasM-25" target="xmcc4s5ayD0104nvWvzn-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="590" as="sourcePoint" />
             <mxPoint x="230" y="540" as="targetPoint" />
             <Array as="points">
               <mxPoint x="360" y="323" />
               <mxPoint x="360" y="590" />
-              <mxPoint x="-450" y="590" />
-              <mxPoint x="-450" y="753" />
+              <mxPoint x="-521" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U2JxWGvwvY309hiPcasM-44" value="Translate to Kubernetes RBAC and Create Role/RoleBinding" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="U2JxWGvwvY309hiPcasM-43">
+        <mxCell id="U2JxWGvwvY309hiPcasM-44" value="Translate PRTB to Kubernetes RBAC and Create Role/RoleBinding" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="U2JxWGvwvY309hiPcasM-43">
           <mxGeometry x="-0.0485" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -234,10 +232,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U2JxWGvwvY309hiPcasM-46" value="Impersonate Request Header" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2JxWGvwvY309hiPcasM-45">
+        <mxCell id="U2JxWGvwvY309hiPcasM-46" value="Impersonate Request Header" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="U2JxWGvwvY309hiPcasM-45">
           <mxGeometry x="0.0684" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U2JxWGvwvY309hiPcasM-48" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;CRTBHandler(ClusterRoleTemplateBinding Handler) translates Rancher Cluster roles to Kubernetes RBAC and applies the RBAC to specified downstream clusters. The binding resource will be relative to the Rancher User ID.&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;PRTBHandler(ProjectRoleTemplateBinding Handler) translates Rancher Project roles to Kubernetes RBAC and applies the RBAC to specified namespaces in downstream clusters. The binding resource will be relative to the Rancher User ID.&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;When a user tries to access data from Rancher, the authentication proxy will validate the token, generate Impersonate headers for the user, and then proxy the request to the downstream cluster. The user access is evaluation by Kubernetes RBAC.&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="900" width="810" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
