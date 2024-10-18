@@ -79,24 +79,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-1" value="RKE" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="610" width="390" height="120" as="geometry" />
+          <mxGeometry x="130" y="610" width="390" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-2" value="Rancher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="660" width="120" height="50" as="geometry" />
+          <mxGeometry x="384" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-3" value="Rancher Backup Operator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="660" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-4" value="S3" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="510" y="690" width="180" height="120" as="geometry" />
+          <mxGeometry x="600" y="690" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-5" value="Rancher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="735" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAHfwT_q1JAHVMu2tNKk-3" target="vAHfwT_q1JAHVMu2tNKk-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="660" as="sourcePoint" />
-            <mxPoint x="310" y="610" as="targetPoint" />
+            <mxPoint x="350" y="660" as="sourcePoint" />
+            <mxPoint x="400" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-7" value="Backup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="vAHfwT_q1JAHVMu2tNKk-6">
@@ -106,10 +106,10 @@
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vAHfwT_q1JAHVMu2tNKk-3" target="vAHfwT_q1JAHVMu2tNKk-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="840" as="sourcePoint" />
-            <mxPoint x="290" y="790" as="targetPoint" />
+            <mxPoint x="330" y="840" as="sourcePoint" />
+            <mxPoint x="380" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="765" />
+              <mxPoint x="220" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,20 +119,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-10" value="RKE2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="840" width="390" height="120" as="geometry" />
+          <mxGeometry x="130" y="840" width="390" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-11" value="Rancher Restore Operator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="890" width="120" height="50" as="geometry" />
+          <mxGeometry x="150" y="890" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-12" value="Rancher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="890" width="120" height="50" as="geometry" />
+          <mxGeometry x="384" y="890" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="vAHfwT_q1JAHVMu2tNKk-5" target="vAHfwT_q1JAHVMu2tNKk-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="800" as="sourcePoint" />
-            <mxPoint x="400" y="750" as="targetPoint" />
+            <mxPoint x="440" y="800" as="sourcePoint" />
+            <mxPoint x="490" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="795" />
+              <mxPoint x="210" y="795" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -143,13 +143,22 @@
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAHfwT_q1JAHVMu2tNKk-11" target="vAHfwT_q1JAHVMu2tNKk-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="940" as="sourcePoint" />
-            <mxPoint x="300" y="890" as="targetPoint" />
+            <mxPoint x="340" y="940" as="sourcePoint" />
+            <mxPoint x="390" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vAHfwT_q1JAHVMu2tNKk-16" value="Restore from S3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vAHfwT_q1JAHVMu2tNKk-15">
           <mxGeometry x="-0.3529" y="-1" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-17" value="LoadBalancer&amp;nbsp;&lt;div&gt;for&lt;br&gt;&lt;div&gt;rancher&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="618" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAHfwT_q1JAHVMu2tNKk-17" target="vAHfwT_q1JAHVMu2tNKk-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="920" as="sourcePoint" />
+            <mxPoint x="630" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
