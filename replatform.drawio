@@ -64,7 +64,7 @@
         <mxCell id="YhDbZ6NQo_gSV78-wYTo-25" value="Velero server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7GHi1thPp4iyyGug7cfU-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="YhDbZ6NQo_gSV78-wYTo-8" target="YhDbZ6NQo_gSV78-wYTo-25">
+        <mxCell id="7GHi1thPp4iyyGug7cfU-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="YhDbZ6NQo_gSV78-wYTo-8" target="YhDbZ6NQo_gSV78-wYTo-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="330" as="sourcePoint" />
             <mxPoint x="120" y="280" as="targetPoint" />
@@ -73,9 +73,83 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7GHi1thPp4iyyGug7cfU-2" value="Get Backup File" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="7GHi1thPp4iyyGug7cfU-1">
+        <mxCell id="7GHi1thPp4iyyGug7cfU-2" value="Get Backup File" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="7GHi1thPp4iyyGug7cfU-1" vertex="1" connectable="0">
           <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-1" value="RKE" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-2" value="Rancher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-3" value="Rancher Backup Operator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-4" value="S3" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="510" y="690" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-5" value="Rancher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAHfwT_q1JAHVMu2tNKk-3" target="vAHfwT_q1JAHVMu2tNKk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="660" as="sourcePoint" />
+            <mxPoint x="310" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-7" value="Backup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="vAHfwT_q1JAHVMu2tNKk-6">
+          <mxGeometry x="-0.4054" y="3" relative="1" as="geometry">
+            <mxPoint x="8" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vAHfwT_q1JAHVMu2tNKk-3" target="vAHfwT_q1JAHVMu2tNKk-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="840" as="sourcePoint" />
+            <mxPoint x="290" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-9" value="Upload to S3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="vAHfwT_q1JAHVMu2tNKk-8">
+          <mxGeometry x="-0.1784" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-10" value="RKE2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-11" value="Rancher Restore Operator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="890" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-12" value="Rancher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="890" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="vAHfwT_q1JAHVMu2tNKk-5" target="vAHfwT_q1JAHVMu2tNKk-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="800" as="sourcePoint" />
+            <mxPoint x="400" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="795" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-14" value="Get Backup File" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="vAHfwT_q1JAHVMu2tNKk-13">
+          <mxGeometry x="0.0304" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAHfwT_q1JAHVMu2tNKk-11" target="vAHfwT_q1JAHVMu2tNKk-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="940" as="sourcePoint" />
+            <mxPoint x="300" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAHfwT_q1JAHVMu2tNKk-16" value="Restore from S3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vAHfwT_q1JAHVMu2tNKk-15">
+          <mxGeometry x="-0.3529" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
