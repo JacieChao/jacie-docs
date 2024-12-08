@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="eSRNM8gQvgy_1YwzEHEM">
-    <mxGraphModel dx="1242" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="740" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,10 +74,10 @@
           <mxGeometry x="534.54" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-1" value="Rancher Management Cluster(Local)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="300" y="660" width="390" height="290" as="geometry" />
+          <mxGeometry x="10" y="666" width="390" height="290" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-2" value="RKE2 Node" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="752" y="700" width="398" height="250" as="geometry" />
+          <mxGeometry x="462" y="706" width="357" height="250" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rh8U4AAMmu3mlSCJstHm-5" target="rh8U4AAMmu3mlSCJstHm-9">
           <mxGeometry relative="1" as="geometry" />
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-5" value="PlanSecret Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326.07" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="36.06999999999999" y="776" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rh8U4AAMmu3mlSCJstHm-6" target="rh8U4AAMmu3mlSCJstHm-9">
           <mxGeometry relative="1" as="geometry" />
@@ -98,8 +98,16 @@
             <mxPoint x="40" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rh8U4AAMmu3mlSCJstHm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rh8U4AAMmu3mlSCJstHm-6" target="rh8U4AAMmu3mlSCJstHm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rh8U4AAMmu3mlSCJstHm-24" value="execute plan with&lt;div&gt;restart RKE2 or&amp;nbsp;&lt;/div&gt;&lt;div&gt;take snapshot&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rh8U4AAMmu3mlSCJstHm-23">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-6" value="System Agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="777" y="855" width="120" height="60" as="geometry" />
+          <mxGeometry x="487" y="861" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rh8U4AAMmu3mlSCJstHm-7" target="rh8U4AAMmu3mlSCJstHm-14">
           <mxGeometry relative="1" as="geometry" />
@@ -112,8 +120,8 @@
         <mxCell id="rh8U4AAMmu3mlSCJstHm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rh8U4AAMmu3mlSCJstHm-7" target="rh8U4AAMmu3mlSCJstHm-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="730" />
-              <mxPoint x="459" y="730" />
+              <mxPoint x="320" y="736" />
+              <mxPoint x="169" y="736" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -123,22 +131,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-7" value="Snapshot Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="735" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="741" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-15" value="watch&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;sync&lt;/div&gt;&lt;div&gt;snapshot&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rh8U4AAMmu3mlSCJstHm-8" target="rh8U4AAMmu3mlSCJstHm-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-8" value="RKE2 server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="735" width="110" height="60" as="geometry" />
+          <mxGeometry x="700" y="739" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-9" value="Plan Secret" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="860" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="866" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-14" value="snapshot ConfigMap" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="740" width="110" height="50" as="geometry" />
+          <mxGeometry x="510" y="746" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-18" value="Snapshot CRD" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="675" width="118" height="35" as="geometry" />
+          <mxGeometry x="80" y="681" width="118" height="35" as="geometry" />
         </mxCell>
         <mxCell id="rh8U4AAMmu3mlSCJstHm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.136;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rh8U4AAMmu3mlSCJstHm-5" target="rh8U4AAMmu3mlSCJstHm-18">
           <mxGeometry relative="1" as="geometry" />
