@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1242" dy="740" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="741" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -62,6 +62,203 @@
           <mxGeometry x="0.0787" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-16" target="XbjGTauby8Pg0xVq4k7X-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-16" value="Migrate&amp;nbsp;&lt;div&gt;Rancher&amp;nbsp;&lt;/div&gt;&lt;div&gt;Start&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=light-dark(#D4D4D4,var(--ge-dark-color, #121212));" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="564" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-17" target="XbjGTauby8Pg0xVq4k7X-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-27" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-26">
+          <mxGeometry x="-0.2203" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-17" target="XbjGTauby8Pg0xVq4k7X-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-30" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-29">
+          <mxGeometry x="-0.2349" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-17" value="Rancher Backup&amp;nbsp;&lt;div&gt;Chart Installed&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="534.5" y="262" width="159" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-18" target="XbjGTauby8Pg0xVq4k7X-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-18" value="Backup current local RKE cluster" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="544" y="167" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-19" target="XbjGTauby8Pg0xVq4k7X-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-19" value="Create Rancher Backup" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="541.5" y="391" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-20" target="XbjGTauby8Pg0xVq4k7X-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-38" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-37">
+          <mxGeometry x="-0.125" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-20" value="Success" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="564" y="506" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-22" target="XbjGTauby8Pg0xVq4k7X-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-22" value="Restore Rancher on RKE2 local cluster" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="514" y="980" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-23" target="XbjGTauby8Pg0xVq4k7X-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-23" value="RKE2 local cluster&lt;div&gt;(same version with&amp;nbsp;&lt;/div&gt;&lt;div&gt;RKE1 local cluster)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="544" y="624" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-28" value="Install Rancher Backup&lt;div&gt;Chart in App Store&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="768" y="272" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-33" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-28" target="XbjGTauby8Pg0xVq4k7X-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="817" y="418" as="sourcePoint" />
+            <mxPoint x="789" y="427" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="838" y="426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-35" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-20" target="XbjGTauby8Pg0xVq4k7X-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="704" y="542" as="sourcePoint" />
+            <mxPoint x="754" y="492" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="664" y="539" />
+              <mxPoint x="749" y="539" />
+              <mxPoint x="749" y="444" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-36" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-35">
+          <mxGeometry x="-0.5102" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-39" target="XbjGTauby8Pg0xVq4k7X-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-39" value="Config the same S3 bucket with&lt;div&gt;RKE local cluster&amp;nbsp;&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;Get Rancher backup file name&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="514" y="857" width="200" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-40" target="XbjGTauby8Pg0xVq4k7X-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-44" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-43">
+          <mxGeometry x="-0.1275" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-40" target="XbjGTauby8Pg0xVq4k7X-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-46" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-45">
+          <mxGeometry x="-0.0645" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-40" value="Rancher Backup&amp;nbsp;&lt;div&gt;Chart Installed&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="534.5" y="725" width="159" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-42" value="Install Rancher Backup&lt;div&gt;Chart by Helm&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="768" y="735" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-48" target="XbjGTauby8Pg0xVq4k7X-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-54" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-53">
+          <mxGeometry x="-0.0492" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-48" value="Success" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="564" y="1078" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-50" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-48" target="XbjGTauby8Pg0xVq4k7X-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="703" y="1114" as="sourcePoint" />
+            <mxPoint x="753" y="1064" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="789" y="1113" />
+              <mxPoint x="789" y="1005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-51" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-50">
+          <mxGeometry x="0.1169" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-52" target="XbjGTauby8Pg0xVq4k7X-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-52" value="Scale down Rancher replicas&amp;nbsp;&lt;div&gt;on RKE local cluster&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="514" y="1209" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-55" target="XbjGTauby8Pg0xVq4k7X-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-55" value="Bring up Rancher&amp;nbsp;&lt;div&gt;on RKE2 local cluster&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="514" y="1314" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-57" target="XbjGTauby8Pg0xVq4k7X-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-57" value="Redirect F5 traffic to RKE2 local cluster nodes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="514" y="1419" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-59" target="XbjGTauby8Pg0xVq4k7X-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-63" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-62">
+          <mxGeometry x="-0.2113" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-59" target="XbjGTauby8Pg0xVq4k7X-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-67" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XbjGTauby8Pg0xVq4k7X-66">
+          <mxGeometry x="-0.3846" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-59" value="Is&lt;div&gt;Rancher&lt;/div&gt;&lt;div&gt;active&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="564" y="1512" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-61" value="&lt;div&gt;Migrate&lt;/div&gt;&lt;div&gt;Rancher&lt;/div&gt;&lt;div&gt;Complete&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=light-dark(#D4D4D4,var(--ge-dark-color, #121212));" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="564" y="1640" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-64" target="XbjGTauby8Pg0xVq4k7X-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-64" value="Scale down Rancher replicas&amp;nbsp;&lt;div&gt;on RKE2 local cluster&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(#FFCCCC,var(--ge-dark-color, #121212));" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="742" y="1522" width="182" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XbjGTauby8Pg0xVq4k7X-65" target="XbjGTauby8Pg0xVq4k7X-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-65" value="Scale Rancher replicas back&amp;nbsp;&lt;div&gt;on RKE local cluster&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(#FFCCCC,var(--ge-dark-color, #121212));" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="742" y="1619" width="182" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XbjGTauby8Pg0xVq4k7X-69" value="Redirect F5 traffic to RKE local cluster nodes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(#FFCCCC,var(--ge-dark-color, #121212));" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="733" y="1711" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
