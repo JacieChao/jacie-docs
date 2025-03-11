@@ -1,9 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="QXbYlyZDdWsU5NRhh9Bg">
-    <mxGraphModel>
+    <mxGraphModel dx="828" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VL03filZ7DwxpJw0gnZn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-1" target="VL03filZ7DwxpJw0gnZn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-1" value="App Collection&lt;div&gt;Migration Start&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="40" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-2" target="VL03filZ7DwxpJw0gnZn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-2" value="regist an account from SCC" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="172.5" width="126" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-3" target="VL03filZ7DwxpJw0gnZn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-14" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VL03filZ7DwxpJw0gnZn-13">
+          <mxGeometry x="-0.2762" y="2" relative="1" as="geometry">
+            <mxPoint x="4" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-3" target="VL03filZ7DwxpJw0gnZn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VL03filZ7DwxpJw0gnZn-17">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-3" value="Have an access token" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="325" y="160" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-4" target="VL03filZ7DwxpJw0gnZn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-4" value="Login to App Collection" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="126" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-5" value="Generate an access token" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="375" width="126" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-6" target="VL03filZ7DwxpJw0gnZn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-20" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VL03filZ7DwxpJw0gnZn-19">
+          <mxGeometry x="-0.1548" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-6" target="VL03filZ7DwxpJw0gnZn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-22" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VL03filZ7DwxpJw0gnZn-21">
+          <mxGeometry x="0.0095" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-6" value="Is airgap" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="294" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-7" target="VL03filZ7DwxpJw0gnZn-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-7" value="Add App Collection registry mirror and authentication on RKE2 cluster" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="420" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-8" target="VL03filZ7DwxpJw0gnZn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-8" value="Mirror App Collection chart to private helm repo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="294" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-9" target="VL03filZ7DwxpJw0gnZn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-9" value="Mirror App Collection chart images to private repo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-25" value="Is fresh install" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="331.5" y="540" width="137" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-27" value="Backup all Istio CRDs" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="660" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-28" value="Uninstall rancher-istio Chart" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="770" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-29" value="Deploy Istio from App Collection" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="720" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-30" value="Restore all Istio CRDs" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="890" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
