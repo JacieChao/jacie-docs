@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="QXbYlyZDdWsU5NRhh9Bg">
-    <mxGraphModel dx="828" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,20 +81,68 @@
         <mxCell id="VL03filZ7DwxpJw0gnZn-9" value="Mirror App Collection chart images to private repo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-25" target="VL03filZ7DwxpJw0gnZn-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="630" />
+              <mxPoint x="400" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-32" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VL03filZ7DwxpJw0gnZn-31">
+          <mxGeometry x="-0.1867" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-25" target="VL03filZ7DwxpJw0gnZn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-35" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VL03filZ7DwxpJw0gnZn-34">
+          <mxGeometry x="0.4508" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VL03filZ7DwxpJw0gnZn-25" value="Is fresh install" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="331.5" y="540" width="137" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-27" target="VL03filZ7DwxpJw0gnZn-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VL03filZ7DwxpJw0gnZn-27" value="Backup all Istio CRDs" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="660" width="170" height="60" as="geometry" />
+          <mxGeometry x="315" y="660" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-28" target="VL03filZ7DwxpJw0gnZn-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VL03filZ7DwxpJw0gnZn-28" value="Uninstall rancher-istio Chart" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="770" width="170" height="60" as="geometry" />
+          <mxGeometry x="315" y="770" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-29" target="VL03filZ7DwxpJw0gnZn-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VL03filZ7DwxpJw0gnZn-29" value="Deploy Istio from App Collection" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="720" width="170" height="60" as="geometry" />
+          <mxGeometry x="580" y="770" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VL03filZ7DwxpJw0gnZn-30" value="Restore all Istio CRDs" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="890" width="170" height="60" as="geometry" />
+          <mxGeometry x="315" y="870" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-38" value="App Collection Migration Done" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1000" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-29" target="VL03filZ7DwxpJw0gnZn-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="880" as="sourcePoint" />
+            <mxPoint x="540" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VL03filZ7DwxpJw0gnZn-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VL03filZ7DwxpJw0gnZn-30" target="VL03filZ7DwxpJw0gnZn-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1060" as="sourcePoint" />
+            <mxPoint x="430" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="1036" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
