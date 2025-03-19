@@ -4,16 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P5PfYAAZ36n7NTvtuzEC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5PfYAAZ36n7NTvtuzEC-2" target="P5PfYAAZ36n7NTvtuzEC-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P5PfYAAZ36n7NTvtuzEC-2" value="prepare RK API for&amp;nbsp;&lt;div&gt;original RKE cluster&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="180" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="P5PfYAAZ36n7NTvtuzEC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5PfYAAZ36n7NTvtuzEC-3" target="P5PfYAAZ36n7NTvtuzEC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P5PfYAAZ36n7NTvtuzEC-3" value="prepare RK API for&amp;nbsp;&lt;div&gt;destination RKE2 cluster&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="P5PfYAAZ36n7NTvtuzEC-3" value="prepare Rancher&amp;nbsp;&lt;div&gt;Kubernetes API&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="105" y="280" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P5PfYAAZ36n7NTvtuzEC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5PfYAAZ36n7NTvtuzEC-4" target="P5PfYAAZ36n7NTvtuzEC-5">
@@ -48,11 +42,11 @@
         <mxCell id="P5PfYAAZ36n7NTvtuzEC-9" value="system resources migration Complete" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="130" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P5PfYAAZ36n7NTvtuzEC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5PfYAAZ36n7NTvtuzEC-10" target="P5PfYAAZ36n7NTvtuzEC-2">
+        <mxCell id="P5PfYAAZ36n7NTvtuzEC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5PfYAAZ36n7NTvtuzEC-10" target="P5PfYAAZ36n7NTvtuzEC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P5PfYAAZ36n7NTvtuzEC-10" value="system resources migration Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="130" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="164" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P5PfYAAZ36n7NTvtuzEC-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P5PfYAAZ36n7NTvtuzEC-6" target="P5PfYAAZ36n7NTvtuzEC-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
