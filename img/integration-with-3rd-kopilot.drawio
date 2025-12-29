@@ -1,9 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="3kb5KcsSLZklpHlVVIF8">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-7" edge="1" parent="1" source="j6Ztc1O82H_BkM0mPZDS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j6Ztc1O82H_BkM0mPZDS-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-28" edge="1" parent="1" source="j6Ztc1O82H_BkM0mPZDS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j6Ztc1O82H_BkM0mPZDS-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="管理员" vertex="1">
+          <mxGeometry height="60" width="30" x="189.5" y="123" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="授予指定用户 Kopilot 访问权限" vertex="1">
+          <mxGeometry height="60" width="120" x="144.5" y="263" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" value="&amp;nbsp; 第三方平台" vertex="1">
+          <mxGeometry height="147" width="315" x="47" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="获取指定集群&lt;div&gt;Kopilot URL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="144.5" y="438.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" value="&amp;nbsp; 集群 A" vertex="1">
+          <mxGeometry height="250" width="320" x="461" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" value="&amp;nbsp; &amp;nbsp; Kopilot" vertex="1">
+          <mxGeometry height="190" width="280" x="481" y="406" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="保存用户" vertex="1">
+          <mxGeometry height="45" width="100" x="511" y="446" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="登录" vertex="1">
+          <mxGeometry height="45" width="100" x="511" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-19" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="DB" vertex="1">
+          <mxGeometry height="80" width="60" x="681" y="476" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-22" edge="1" parent="1" source="j6Ztc1O82H_BkM0mPZDS-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="j6Ztc1O82H_BkM0mPZDS-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="302" y="333" as="sourcePoint" />
+            <mxPoint x="352" y="283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-23" edge="1" parent="1" source="j6Ztc1O82H_BkM0mPZDS-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j6Ztc1O82H_BkM0mPZDS-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-24" connectable="0" parent="j6Ztc1O82H_BkM0mPZDS-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="调用 Create User API" vertex="1">
+          <mxGeometry relative="1" x="-0.0524" y="3" as="geometry">
+            <mxPoint x="27" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-26" edge="1" parent="1" source="j6Ztc1O82H_BkM0mPZDS-17" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" target="j6Ztc1O82H_BkM0mPZDS-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="651" y="466" as="sourcePoint" />
+            <mxPoint x="701" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-27" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="用户" vertex="1">
+          <mxGeometry height="60" width="30" x="189.5" y="616" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-31" edge="1" parent="1" source="j6Ztc1O82H_BkM0mPZDS-27" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="j6Ztc1O82H_BkM0mPZDS-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="620" as="sourcePoint" />
+            <mxPoint x="330" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-32" connectable="0" parent="j6Ztc1O82H_BkM0mPZDS-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="访问指定集群 Kopilot" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="2" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-33" edge="1" parent="1" source="j6Ztc1O82H_BkM0mPZDS-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j6Ztc1O82H_BkM0mPZDS-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-34" connectable="0" parent="j6Ztc1O82H_BkM0mPZDS-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="调用 Login API" vertex="1">
+          <mxGeometry relative="1" x="-0.1402" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-37" edge="1" parent="1" source="j6Ztc1O82H_BkM0mPZDS-18" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="j6Ztc1O82H_BkM0mPZDS-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="640" as="sourcePoint" />
+            <mxPoint x="450" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6Ztc1O82H_BkM0mPZDS-38" connectable="0" parent="j6Ztc1O82H_BkM0mPZDS-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="返回 Token" vertex="1">
+          <mxGeometry relative="1" x="-0.1375" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
