@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="-o6fkq58jc32N0mm90GY">
-    <mxGraphModel dx="943" dy="554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="611" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,22 +170,19 @@
           <mxGeometry height="60" width="482" x="162" y="3992" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Liz Agent Server" vertex="1">
-          <mxGeometry height="60" width="481" x="162" y="3857" as="geometry" />
-        </mxCell>
-        <mxCell id="UOzjFvlssb82cC_UnOf5-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="Rancher or Not" vertex="1">
-          <mxGeometry height="60" width="481" x="162" y="3926" as="geometry" />
+          <mxGeometry height="60" width="481" x="162" y="3923" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kubernetes A" vertex="1">
-          <mxGeometry height="60" width="120" x="162" y="3785" as="geometry" />
+          <mxGeometry height="60" width="120" x="162" y="3851" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kubernetes B" vertex="1">
-          <mxGeometry height="60" width="120" x="294" y="3785" as="geometry" />
+          <mxGeometry height="60" width="120" x="294" y="3851" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kubernetes C" vertex="1">
-          <mxGeometry height="60" width="120" x="427" y="3785" as="geometry" />
+          <mxGeometry height="60" width="120" x="427" y="3851" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="..." vertex="1">
-          <mxGeometry height="60" width="87" x="556" y="3785" as="geometry" />
+          <mxGeometry height="60" width="87" x="556" y="3851" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-61" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Tenant User" vertex="1">
           <mxGeometry height="60" width="30" x="74" y="2553" as="geometry" />
