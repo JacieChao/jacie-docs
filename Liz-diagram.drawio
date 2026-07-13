@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="-o6fkq58jc32N0mm90GY">
-    <mxGraphModel dx="1629" dy="993" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="UOzjFvlssb82cC_UnOf5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kubernetes + K3k controller + Liz Control Plane" vertex="1">
           <mxGeometry height="60" width="652" x="98" y="1686" as="geometry" />
         </mxCell>
-        <mxCell id="UOzjFvlssb82cC_UnOf5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Tenant A(enterprise plan)" vertex="1">
+        <mxCell id="UOzjFvlssb82cC_UnOf5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Tenant A(Enterprise Cloud Plan)" vertex="1">
           <mxGeometry height="234" width="225" x="98" y="1441" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="K3k Cluster" vertex="1">
@@ -67,16 +67,16 @@
         <mxCell id="UOzjFvlssb82cC_UnOf5-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rancher" vertex="1">
           <mxGeometry height="60" width="211" x="105" y="1541" as="geometry" />
         </mxCell>
-        <mxCell id="UOzjFvlssb82cC_UnOf5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Tenant B(enterprise plan)" vertex="1">
+        <mxCell id="UOzjFvlssb82cC_UnOf5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Tenant B(Enterprise Hybrid Plan)" vertex="1">
           <mxGeometry height="233" width="225" x="335" y="1442" as="geometry" />
         </mxCell>
-        <mxCell id="UOzjFvlssb82cC_UnOf5-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="K3k Cluster" vertex="1">
+        <mxCell id="UOzjFvlssb82cC_UnOf5-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Custom Kubernetes" vertex="1">
           <mxGeometry height="60" width="211" x="342" y="1608" as="geometry" />
         </mxCell>
-        <mxCell id="UOzjFvlssb82cC_UnOf5-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rancher" vertex="1">
+        <mxCell id="UOzjFvlssb82cC_UnOf5-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="Rancher Community" vertex="1">
           <mxGeometry height="60" width="211" x="342" y="1541" as="geometry" />
         </mxCell>
-        <mxCell id="UOzjFvlssb82cC_UnOf5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Tenant C(individual plan)" vertex="1">
+        <mxCell id="UOzjFvlssb82cC_UnOf5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Tenant C(Individual Plan)" vertex="1">
           <mxGeometry height="170" width="179" x="570" y="1505" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Liz Agent Server" vertex="1">
@@ -85,7 +85,7 @@
         <mxCell id="UOzjFvlssb82cC_UnOf5-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Liz Agent Server" vertex="1">
           <mxGeometry height="60" width="210" x="342" y="1473" as="geometry" />
         </mxCell>
-        <mxCell id="UOzjFvlssb82cC_UnOf5-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="custom Kubernetes" vertex="1">
+        <mxCell id="UOzjFvlssb82cC_UnOf5-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Custom Kubernetes" vertex="1">
           <mxGeometry height="60" width="161" x="579" y="1606" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Liz Agent Server" vertex="1">
