@@ -10,7 +10,7 @@
         <mxCell id="s9PzU-UQ4cBH2LS_8AfC-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;fontSize=15;" value="Enterprise Cloud Plan" vertex="1">
           <mxGeometry height="205" width="249" x="553" y="573" as="geometry" />
         </mxCell>
-        <mxCell id="s9PzU-UQ4cBH2LS_8AfC-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" value="Liz Control Plane" vertex="1">
+        <mxCell id="s9PzU-UQ4cBH2LS_8AfC-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" value="Liz Control Plane" vertex="1">
           <mxGeometry height="427" width="714" x="88" y="134" as="geometry" />
         </mxCell>
         <mxCell id="RmhtLynf-h64byK3Bh4Q-11" edge="1" parent="1" source="RmhtLynf-h64byK3Bh4Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RmhtLynf-h64byK3Bh4Q-5" value="">
