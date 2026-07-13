@@ -398,7 +398,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Login Middleware" vertex="1">
-          <mxGeometry height="38" width="120" x="267" y="4319" as="geometry" />
+          <mxGeometry height="38" width="120" x="267" y="4231" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-134" edge="1" parent="1" source="UOzjFvlssb82cC_UnOf5-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UOzjFvlssb82cC_UnOf5-130" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -409,73 +409,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-131" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="User" vertex="1">
-          <mxGeometry height="60" width="30" x="312" y="4189" as="geometry" />
+          <mxGeometry height="60" width="30" x="312" y="4101" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-138" edge="1" parent="1" source="UOzjFvlssb82cC_UnOf5-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UOzjFvlssb82cC_UnOf5-133" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tenant Middleware" vertex="1">
-          <mxGeometry height="38" width="120" x="267" y="4421" as="geometry" />
+          <mxGeometry height="38" width="120" x="267" y="4333" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-143" edge="1" parent="1" source="UOzjFvlssb82cC_UnOf5-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UOzjFvlssb82cC_UnOf5-142" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SCC &amp;amp; Billing Middleware" vertex="1">
-          <mxGeometry height="38" width="120" x="267" y="4523" as="geometry" />
+          <mxGeometry height="38" width="120" x="267" y="4435" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-139" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Login Middleware&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;This layer used to check user&#39;s login status.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="94" width="180" x="405" y="4284" as="geometry" />
+          <mxGeometry height="94" width="180" x="405" y="4196" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-140" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Tenant Middleware&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;This layer used to validate tenant metadata for login user.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="94" width="180" x="397" y="4398" as="geometry" />
+          <mxGeometry height="94" width="180" x="397" y="4310" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-141" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SCC &amp;amp; Billing Middleware&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;This layer used to validate tenant subscription metadata.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="94" width="180" x="396" y="4512" as="geometry" />
+          <mxGeometry height="94" width="180" x="396" y="4424" as="geometry" />
         </mxCell>
         <mxCell id="UOzjFvlssb82cC_UnOf5-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Liz API Gateway" vertex="1">
-          <mxGeometry height="38" width="120" x="267" y="4621" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;" value="Hosted Cluster" vertex="1">
-          <mxGeometry height="315" width="616" x="133" y="4724" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Tenant User" vertex="1">
-          <mxGeometry height="60" width="30" x="59" y="4801" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Liz Control Plane" vertex="1">
-          <mxGeometry height="60" width="138" x="180" y="4771" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-4" edge="1" parent="1" source="949HH_Kco8W6Jzlgtd_R-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="949HH_Kco8W6Jzlgtd_R-3" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="147" y="4842" as="sourcePoint" />
-            <mxPoint x="197" y="4792" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="LDAP" vertex="1">
-          <mxGeometry height="80" width="60" x="496" y="4767" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;" value="Hosted Rancher" vertex="1">
-          <mxGeometry height="212" width="721" x="53" y="5446" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;" value="Liz Control Plane" vertex="1">
-          <mxGeometry height="114" width="719" x="53" y="5319" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Authentication" vertex="1">
-          <mxGeometry height="60" width="134" x="70.5" y="5568" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-9" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="DB" vertex="1">
-          <mxGeometry height="80" width="60" x="105" y="5685" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="K3k Provisioning" vertex="1">
-          <mxGeometry height="60" width="120" x="315" y="5568" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tenant Management" vertex="1">
-          <mxGeometry height="60" width="139.5" x="70.5" y="5352" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=right;" value="Liz SaaS UI" vertex="1">
-          <mxGeometry height="82" width="718" x="53" y="5225" as="geometry" />
-        </mxCell>
-        <mxCell id="949HH_Kco8W6Jzlgtd_R-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tenant Registration" vertex="1">
-          <mxGeometry height="54" width="130.5" x="70.5" y="5243" as="geometry" />
+          <mxGeometry height="38" width="120" x="267" y="4533" as="geometry" />
         </mxCell>
         <mxCell id="949HH_Kco8W6Jzlgtd_R-15" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
           <mxGeometry height="1089" width="20" x="49.75" y="5900" as="geometry" />
