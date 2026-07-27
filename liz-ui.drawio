@@ -29,7 +29,7 @@
           <mxGeometry height="50" width="150" x="642" y="127" as="geometry" />
         </mxCell>
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-1" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" value="" vertex="1">
-          <mxGeometry height="969" width="826" y="895" as="geometry" />
+          <mxGeometry height="1392" width="826" y="895" as="geometry" />
         </mxCell>
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-2" parent="cynpYT1DZZe5OW0Q1c0n-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" value="Page 1" vertex="1">
           <mxGeometry height="26" width="110" x="60" y="12" as="geometry" />
@@ -100,7 +100,7 @@
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-61" parent="cynpYT1DZZe5OW0Q1c0n-24" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=14;spacingLeft=3;" value="US East-1" vertex="1">
           <mxGeometry height="30" width="150" x="155" y="243" as="geometry" />
         </mxCell>
-        <mxCell id="cynpYT1DZZe5OW0Q1c0n-62" parent="cynpYT1DZZe5OW0Q1c0n-24" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=14;fontColor=#666666;mainText=;html=1;overflow=fill;" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-62" parent="cynpYT1DZZe5OW0Q1c0n-24" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=14;fontColor=#666666;mainText=;html=1;overflow=fill;" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
           <mxGeometry height="32" width="150" x="152" y="282" as="geometry" />
         </mxCell>
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-63" parent="cynpYT1DZZe5OW0Q1c0n-24" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=14;spacingLeft=3;" value="4C/8G" vertex="1">
@@ -108,6 +108,33 @@
         </mxCell>
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-64" parent="cynpYT1DZZe5OW0Q1c0n-24" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=14;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" value="Save" vertex="1">
           <mxGeometry height="50" width="150" x="610" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-65" connectable="0" parent="cynpYT1DZZe5OW0Q1c0n-1" style="group" value="" vertex="1">
+          <mxGeometry height="383" width="781" x="23" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-66" parent="cynpYT1DZZe5OW0Q1c0n-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Register Form (Step 2)" vertex="1">
+          <mxGeometry height="30" width="781" as="geometry" />
+        </mxCell>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-67" parent="cynpYT1DZZe5OW0Q1c0n-65" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="353" width="781" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-87" parent="cynpYT1DZZe5OW0Q1c0n-65" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_1;pointerEvents=1" value="" vertex="1">
+          <mxGeometry height="52" width="56" x="133" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-88" parent="cynpYT1DZZe5OW0Q1c0n-65" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A waiting Progress" vertex="1">
+          <mxGeometry height="30" width="320" x="218" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-89" parent="cynpYT1DZZe5OW0Q1c0n-65" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Here is the current Progress step&lt;/h1&gt;&lt;p&gt;Previous progress logs....&lt;/p&gt;&lt;p&gt;Previous progress logs....&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="544" x="120" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-90" connectable="0" parent="cynpYT1DZZe5OW0Q1c0n-1" style="group" value="" vertex="1">
+          <mxGeometry height="383" width="781" x="23" y="995" as="geometry" />
+        </mxCell>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-91" parent="cynpYT1DZZe5OW0Q1c0n-90" style="rounded=0;whiteSpace=wrap;html=1;" value="Register Form (Step 3)" vertex="1">
+          <mxGeometry height="30" width="781" as="geometry" />
+        </mxCell>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-92" parent="cynpYT1DZZe5OW0Q1c0n-90" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="353" width="781" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
