@@ -130,11 +130,19 @@
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-90" connectable="0" parent="cynpYT1DZZe5OW0Q1c0n-1" style="group" value="" vertex="1">
           <mxGeometry height="383" width="781" x="23" y="995" as="geometry" />
         </mxCell>
-        <mxCell id="cynpYT1DZZe5OW0Q1c0n-91" parent="cynpYT1DZZe5OW0Q1c0n-90" style="rounded=0;whiteSpace=wrap;html=1;" value="Register Form (Step 3)" vertex="1">
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-91" parent="cynpYT1DZZe5OW0Q1c0n-90" style="rounded=0;whiteSpace=wrap;html=1;" value="Register Form (Step 3) - register complete" vertex="1">
           <mxGeometry height="30" width="781" as="geometry" />
         </mxCell>
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-92" parent="cynpYT1DZZe5OW0Q1c0n-90" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="353" width="781" y="30" as="geometry" />
+        </mxCell>
+        <UserObject label="https://tenant-a.xxxx.liz-saas.com?register-code=xxxxxxxxx" link="https://www.draw.io" id="cynpYT1DZZe5OW0Q1c0n-96">
+          <mxCell parent="cynpYT1DZZe5OW0Q1c0n-90" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1">
+            <mxGeometry height="40" width="374" x="111" y="69" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-97" parent="cynpYT1DZZe5OW0Q1c0n-90" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="login with:" vertex="1">
+          <mxGeometry height="26" width="71" x="26" y="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
