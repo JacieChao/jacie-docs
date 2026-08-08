@@ -365,6 +365,48 @@
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="207" x="151" y="6269" as="geometry" />
         </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-11" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="779" width="827" y="6671" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-12" parent="u4cBHuR5vRL_F1cBNRZh-11" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" value="Liz SaaS" vertex="1">
+          <mxGeometry height="26" width="110" x="60" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-13" parent="u4cBHuR5vRL_F1cBNRZh-11" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" value="https://www.liz-saas.suse.com?accountid=xxxxxxx" vertex="1">
+          <mxGeometry height="26" width="250" x="130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-22" parent="u4cBHuR5vRL_F1cBNRZh-11" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="113.5" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-20" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=14;" value="Jacie" vertex="1">
+          <mxGeometry height="29" width="51" x="759" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-21" parent="u4cBHuR5vRL_F1cBNRZh-11" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor=#666666;strokeColor2=#008cff;" value="" vertex="1">
+          <mxGeometry height="46" width="50" x="707" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-23" parent="u4cBHuR5vRL_F1cBNRZh-11" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; Liz Saas Logo and menu bar" vertex="1">
+          <mxGeometry height="60" width="677" x="9" y="113.5" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-24" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Document" vertex="1">
+          <mxGeometry height="30" width="60" x="611" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-25" parent="u4cBHuR5vRL_F1cBNRZh-11" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="325" width="139" x="12" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-35" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Homepage" vertex="1">
+          <mxGeometry height="26" width="77" x="18" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-36" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Usage Anaysis" vertex="1">
+          <mxGeometry height="26" width="97" x="18" y="242" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-37" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;Usage&lt;/li&gt;&lt;li&gt;Logs&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="9" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-39" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Bill" vertex="1">
+          <mxGeometry height="26" width="34" x="23" y="307" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-40" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Settings" vertex="1">
+          <mxGeometry height="26" width="61" x="19" y="338" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
