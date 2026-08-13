@@ -413,6 +413,15 @@
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-42" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;Account&lt;/li&gt;&lt;li&gt;AI Assistant Configuration&lt;/li&gt;&lt;li&gt;Cluster Management&lt;/li&gt;&lt;li&gt;SSO Configuration&lt;/li&gt;&lt;li&gt;Organization Management&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="94" width="202" x="6.5" y="384" as="geometry" />
         </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-71" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Welcome Page" vertex="1">
+          <mxGeometry height="26" width="99" x="237" y="201" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-72" parent="u4cBHuR5vRL_F1cBNRZh-11" style="rounded=0;whiteSpace=wrap;html=1;" value="some demo or introduction....." vertex="1">
+          <mxGeometry height="118" width="565.97" x="228" y="239" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-73" parent="u4cBHuR5vRL_F1cBNRZh-11" style="rounded=0;whiteSpace=wrap;html=1;" value="Want to have a try?&amp;nbsp;&lt;div&gt;introduction about subscription plan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="107" width="565.97" x="228" y="379" as="geometry" />
+        </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-43" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=14;" value="" vertex="1">
           <mxGeometry height="752" width="827" y="7525" as="geometry" />
         </mxCell>
@@ -466,6 +475,90 @@
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-69" parent="u4cBHuR5vRL_F1cBNRZh-43" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Chat History&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;List all chat history of current login user&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="121" width="127" x="33.5" y="439" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-92" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="779" width="827" y="8337" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-93" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" value="Liz SaaS" vertex="1">
+          <mxGeometry height="26" width="110" x="60" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-94" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" value="https://www.liz-saas.suse.com?accountid=xxxxxxx" vertex="1">
+          <mxGeometry height="26" width="250" x="130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-95" parent="u4cBHuR5vRL_F1cBNRZh-92" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="113.5" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-96" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=14;" value="Jacie" vertex="1">
+          <mxGeometry height="29" width="51" x="759" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-97" parent="u4cBHuR5vRL_F1cBNRZh-92" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor=#666666;strokeColor2=#008cff;" value="" vertex="1">
+          <mxGeometry height="46" width="50" x="707" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-98" parent="u4cBHuR5vRL_F1cBNRZh-92" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; Liz Saas Logo and menu bar" vertex="1">
+          <mxGeometry height="60" width="677" x="9" y="113.5" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-99" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Document" vertex="1">
+          <mxGeometry height="30" width="60" x="611" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-100" parent="u4cBHuR5vRL_F1cBNRZh-92" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="556" width="192" x="12" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-101" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Homepage" vertex="1">
+          <mxGeometry height="26" width="77" x="18" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-102" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Usage Anaysis" vertex="1">
+          <mxGeometry height="26" width="97" x="18" y="242" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-103" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;Usage&lt;/li&gt;&lt;li&gt;Logs&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="9" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-104" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Bill" vertex="1">
+          <mxGeometry height="26" width="34" x="20" y="307" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-105" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Settings" vertex="1">
+          <mxGeometry height="26" width="61" x="20" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-106" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;Subscription Plan&lt;/li&gt;&lt;li&gt;Receipt&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="6.5" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-107" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;Account&lt;/li&gt;&lt;li&gt;AI Assistant Configuration&lt;/li&gt;&lt;li&gt;Cluster Management&lt;/li&gt;&lt;li&gt;SSO Configuration&lt;/li&gt;&lt;li&gt;Organization Management&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="94" width="202" x="6.5" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-111" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Individual Plan" vertex="1">
+          <mxGeometry height="30" width="164" x="233" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-112" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" value="Enterprise Hybrid Plan" vertex="1">
+          <mxGeometry height="30" width="188" x="402" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-116" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Annually" vertex="1">
+          <mxGeometry height="30" width="87" x="503" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-115" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" value="Quarterly" vertex="1">
+          <mxGeometry height="30" width="92" x="407" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-114" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Monthly" vertex="1">
+          <mxGeometry height="30" width="92" x="310" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-117" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Enterprise Cloud Plan" vertex="1">
+          <mxGeometry height="30" width="183" x="595" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-118" parent="u4cBHuR5vRL_F1cBNRZh-92" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="319" width="264" x="228" y="321" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-119" parent="u4cBHuR5vRL_F1cBNRZh-92" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="319" width="260" x="533" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-120" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Standard" vertex="1">
+          <mxGeometry height="30" width="60" x="317.5" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-121" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Advanced" vertex="1">
+          <mxGeometry height="30" width="60" x="631" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-122" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;$xxx/quarter&lt;/h1&gt;&lt;p&gt;Max 10 Clusters AI Assistants&lt;/p&gt;&lt;p&gt;Max 10 seats within organization&lt;/p&gt;&lt;p&gt;xxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;" vertex="1">
+          <mxGeometry height="186" width="180" x="245" y="393" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-123" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;$xxx/quarter&lt;/h1&gt;&lt;p&gt;Max 50 Clusters AI Assistants&lt;/p&gt;&lt;p&gt;Max 50 seats within organization&lt;/p&gt;&lt;p&gt;xxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;" vertex="1">
+          <mxGeometry height="178" width="180" x="548" y="396" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
