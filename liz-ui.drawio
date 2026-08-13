@@ -531,34 +531,37 @@
           <mxGeometry height="30" width="188" x="402" y="195" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-116" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Annually" vertex="1">
-          <mxGeometry height="30" width="87" x="503" y="268" as="geometry" />
+          <mxGeometry height="30" width="87" x="544" y="370" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-115" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" value="Quarterly" vertex="1">
-          <mxGeometry height="30" width="92" x="407" y="268" as="geometry" />
+          <mxGeometry height="30" width="92" x="448" y="370" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-114" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Monthly" vertex="1">
-          <mxGeometry height="30" width="92" x="310" y="268" as="geometry" />
+          <mxGeometry height="30" width="92" x="351" y="370" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-117" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Enterprise Cloud Plan" vertex="1">
           <mxGeometry height="30" width="183" x="595" y="195" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-118" parent="u4cBHuR5vRL_F1cBNRZh-92" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="319" width="264" x="228" y="321" as="geometry" />
+          <mxGeometry height="319" width="264" x="228" y="426" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-119" parent="u4cBHuR5vRL_F1cBNRZh-92" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="319" width="260" x="533" y="318" as="geometry" />
+          <mxGeometry height="319" width="260" x="533" y="423" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-120" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Standard" vertex="1">
-          <mxGeometry height="30" width="60" x="317.5" y="337" as="geometry" />
+          <mxGeometry height="30" width="60" x="317.5" y="442" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-121" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Advanced" vertex="1">
-          <mxGeometry height="30" width="60" x="631" y="335" as="geometry" />
+          <mxGeometry height="30" width="60" x="631" y="440" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-122" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;$xxx/quarter&lt;/h1&gt;&lt;p&gt;Max 10 Clusters AI Assistants&lt;/p&gt;&lt;p&gt;Max 10 seats within organization&lt;/p&gt;&lt;p&gt;xxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;" vertex="1">
-          <mxGeometry height="186" width="180" x="245" y="393" as="geometry" />
+          <mxGeometry height="186" width="180" x="245" y="498" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-123" parent="u4cBHuR5vRL_F1cBNRZh-92" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;$xxx/quarter&lt;/h1&gt;&lt;p&gt;Max 50 Clusters AI Assistants&lt;/p&gt;&lt;p&gt;Max 50 seats within organization&lt;/p&gt;&lt;p&gt;xxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;" vertex="1">
-          <mxGeometry height="178" width="180" x="548" y="396" as="geometry" />
+          <mxGeometry height="178" width="180" x="548" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-124" parent="u4cBHuR5vRL_F1cBNRZh-92" style="rounded=0;whiteSpace=wrap;html=1;" value="Plan introduction:&lt;div&gt;This enterprise hybrid plan is fit for enterprise tenants that only needs the Liz SaaS AI assistants to use within their own clusters(for example, Rancher community user wants to have a try with Liz).&lt;/div&gt;" vertex="1">
+          <mxGeometry height="79" width="545" x="233" y="249" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
