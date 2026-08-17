@@ -150,7 +150,7 @@
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-97" parent="cynpYT1DZZe5OW0Q1c0n-90" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="login with:" vertex="1">
           <mxGeometry height="26" width="71" x="26" y="73" as="geometry" />
         </mxCell>
-        <mxCell id="cynpYT1DZZe5OW0Q1c0n-98" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" value="Liz SaaS Initialization for Tenant A (Enterprise Cloud Plan)" vertex="1">
+        <mxCell id="cynpYT1DZZe5OW0Q1c0n-98" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" value="SSO Configuration(Enterprise Cloud Plan ONLY)" vertex="1">
           <mxGeometry height="679" width="803" x="11" y="2365" as="geometry" />
         </mxCell>
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-102" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Team Onboarding" vertex="1">
