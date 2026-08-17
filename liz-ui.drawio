@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="SckyV8ZXcX3IrgCL2Hs0">
-    <mxGraphModel dx="1692" dy="779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -562,6 +562,12 @@
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-124" parent="u4cBHuR5vRL_F1cBNRZh-92" style="rounded=0;whiteSpace=wrap;html=1;" value="Plan introduction:&lt;div&gt;This enterprise hybrid plan is fit for enterprise tenants that only needs the Liz SaaS AI assistants to use within their own clusters(for example, Rancher community user wants to have a try with Liz).&lt;/div&gt;" vertex="1">
           <mxGeometry height="79" width="545" x="233" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="bB1ZE8OTtOmKE5gkN6kQ-1" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" value="Choose it" vertex="1">
+          <mxGeometry height="50" width="150" x="282" y="682" as="geometry" />
+        </mxCell>
+        <mxCell id="bB1ZE8OTtOmKE5gkN6kQ-2" parent="u4cBHuR5vRL_F1cBNRZh-92" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" value="Choose it" vertex="1">
+          <mxGeometry height="50" width="150" x="600" y="682" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
