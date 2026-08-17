@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="SckyV8ZXcX3IrgCL2Hs0">
-    <mxGraphModel dx="1222" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1169" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -395,8 +395,8 @@
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-35" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Homepage" vertex="1">
           <mxGeometry height="26" width="77" x="18" y="208" as="geometry" />
         </mxCell>
-        <mxCell id="u4cBHuR5vRL_F1cBNRZh-36" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Usage Anaysis" vertex="1">
-          <mxGeometry height="26" width="97" x="18" y="242" as="geometry" />
+        <mxCell id="u4cBHuR5vRL_F1cBNRZh-36" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Usage Analysis" vertex="1">
+          <mxGeometry height="26" width="100" x="17" y="242" as="geometry" />
         </mxCell>
         <mxCell id="u4cBHuR5vRL_F1cBNRZh-37" parent="u4cBHuR5vRL_F1cBNRZh-11" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ul&gt;&lt;li&gt;Usage&lt;/li&gt;&lt;li&gt;Logs&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="9" y="252" as="geometry" />
