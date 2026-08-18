@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="SckyV8ZXcX3IrgCL2Hs0">
-    <mxGraphModel dx="1692" dy="779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,7 +213,7 @@
           <mxGeometry height="601" width="803" x="11" y="3655" as="geometry" />
         </mxCell>
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-122" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" value="Cluster List" vertex="1">
-          <mxGeometry height="150" width="776.9444444444418" x="26" y="3706" as="geometry" />
+          <mxGeometry height="150" width="776.9444444444418" x="26" y="3747" as="geometry" />
         </mxCell>
         <mxCell id="cynpYT1DZZe5OW0Q1c0n-123" parent="cynpYT1DZZe5OW0Q1c0n-122" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
           <mxGeometry height="40" width="776.9444444444418" y="30" as="geometry" />
@@ -837,6 +837,9 @@
         </mxCell>
         <mxCell id="RHf5sMRdeheEGJzrVJ9H-62" parent="RHf5sMRdeheEGJzrVJ9H-32" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" value="Choose it" vertex="1">
           <mxGeometry height="50" width="150" x="600" y="682" as="geometry" />
+        </mxCell>
+        <mxCell id="RHf5sMRdeheEGJzrVJ9H-63" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" value="Import" vertex="1">
+          <mxGeometry height="40" width="150" x="27" y="3697" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
