@@ -817,16 +817,16 @@
         <mxCell id="RHf5sMRdeheEGJzrVJ9H-55" parent="RHf5sMRdeheEGJzrVJ9H-32" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="319" width="260" x="533" y="423" as="geometry" />
         </mxCell>
-        <mxCell id="RHf5sMRdeheEGJzrVJ9H-56" parent="RHf5sMRdeheEGJzrVJ9H-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Free" vertex="1">
+        <mxCell id="RHf5sMRdeheEGJzrVJ9H-56" parent="RHf5sMRdeheEGJzrVJ9H-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Standard" vertex="1">
           <mxGeometry height="30" width="60" x="317.5" y="442" as="geometry" />
         </mxCell>
-        <mxCell id="RHf5sMRdeheEGJzrVJ9H-57" parent="RHf5sMRdeheEGJzrVJ9H-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Standard" vertex="1">
+        <mxCell id="RHf5sMRdeheEGJzrVJ9H-57" parent="RHf5sMRdeheEGJzrVJ9H-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Advanced" vertex="1">
           <mxGeometry height="30" width="60" x="631" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="RHf5sMRdeheEGJzrVJ9H-58" parent="RHf5sMRdeheEGJzrVJ9H-32" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;$0/quarter&lt;/h1&gt;&lt;p&gt;Max 1 Clusters AI Assistants&lt;/p&gt;&lt;p&gt;xxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;" vertex="1">
+        <mxCell id="RHf5sMRdeheEGJzrVJ9H-58" parent="RHf5sMRdeheEGJzrVJ9H-32" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;$xxxx/quarter&lt;/h1&gt;&lt;p&gt;Max 10 Clusters AI Assistants&lt;/p&gt;&lt;p&gt;Max 10 seats within organization&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;" vertex="1">
           <mxGeometry height="186" width="180" x="245" y="498" as="geometry" />
         </mxCell>
-        <mxCell id="RHf5sMRdeheEGJzrVJ9H-59" parent="RHf5sMRdeheEGJzrVJ9H-32" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;$xxx/quarter&lt;/h1&gt;&lt;p&gt;Max 10 Clusters AI Assistants&lt;/p&gt;&lt;p&gt;xxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;" vertex="1">
+        <mxCell id="RHf5sMRdeheEGJzrVJ9H-59" parent="RHf5sMRdeheEGJzrVJ9H-32" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;$xxx/quarter&lt;/h1&gt;&lt;p&gt;Max 50 Clusters AI Assistants&lt;/p&gt;&lt;p&gt;Max 50 seats within organization&lt;/p&gt;&lt;p&gt;xxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;" vertex="1">
           <mxGeometry height="178" width="180" x="548" y="501" as="geometry" />
         </mxCell>
         <mxCell id="RHf5sMRdeheEGJzrVJ9H-60" parent="RHf5sMRdeheEGJzrVJ9H-32" style="rounded=0;whiteSpace=wrap;html=1;" value="Plan introduction:&lt;div&gt;This enterprise cloud plan is fit for enterprise tenants that who need Liz AI assistant on the cloud environment. The cloud plan can integrate with IAM within the tenant organization.&lt;/div&gt;" vertex="1">
