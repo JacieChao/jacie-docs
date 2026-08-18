@@ -796,8 +796,8 @@
         <mxCell id="RHf5sMRdeheEGJzrVJ9H-48" parent="RHf5sMRdeheEGJzrVJ9H-32" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Enterprise Hybrid Plan" vertex="1">
           <mxGeometry height="30" width="188" x="400" y="195" as="geometry" />
         </mxCell>
-        <mxCell id="RHf5sMRdeheEGJzrVJ9H-49" parent="RHf5sMRdeheEGJzrVJ9H-32" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" value="Individual Plan" vertex="1">
-          <mxGeometry height="30" width="156.5" x="237" y="195" as="geometry" />
+        <mxCell id="RHf5sMRdeheEGJzrVJ9H-49" parent="RHf5sMRdeheEGJzrVJ9H-32" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" value="Enterprise Cloud Plan" vertex="1">
+          <mxGeometry height="30" width="183" x="593" y="195" as="geometry" />
         </mxCell>
         <mxCell id="RHf5sMRdeheEGJzrVJ9H-50" parent="RHf5sMRdeheEGJzrVJ9H-32" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Annually" vertex="1">
           <mxGeometry height="30" width="87" x="544" y="370" as="geometry" />
@@ -808,8 +808,8 @@
         <mxCell id="RHf5sMRdeheEGJzrVJ9H-52" parent="RHf5sMRdeheEGJzrVJ9H-32" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Monthly" vertex="1">
           <mxGeometry height="30" width="92" x="351" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="RHf5sMRdeheEGJzrVJ9H-53" parent="RHf5sMRdeheEGJzrVJ9H-32" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Enterprise Cloud Plan" vertex="1">
-          <mxGeometry height="30" width="183" x="595" y="195" as="geometry" />
+        <mxCell id="RHf5sMRdeheEGJzrVJ9H-53" parent="RHf5sMRdeheEGJzrVJ9H-32" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" value="Individual Plan" vertex="1">
+          <mxGeometry height="30" width="162" x="233" y="195" as="geometry" />
         </mxCell>
         <mxCell id="RHf5sMRdeheEGJzrVJ9H-54" parent="RHf5sMRdeheEGJzrVJ9H-32" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="319" width="264" x="228" y="426" as="geometry" />
@@ -829,7 +829,7 @@
         <mxCell id="RHf5sMRdeheEGJzrVJ9H-59" parent="RHf5sMRdeheEGJzrVJ9H-32" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;$xxx/quarter&lt;/h1&gt;&lt;p&gt;Max 10 Clusters AI Assistants&lt;/p&gt;&lt;p&gt;xxxxxxxxx&lt;/p&gt;&lt;p&gt;xxxxxxxx&lt;/p&gt;" vertex="1">
           <mxGeometry height="178" width="180" x="548" y="501" as="geometry" />
         </mxCell>
-        <mxCell id="RHf5sMRdeheEGJzrVJ9H-60" parent="RHf5sMRdeheEGJzrVJ9H-32" style="rounded=0;whiteSpace=wrap;html=1;" value="Plan introduction:&lt;div&gt;This Individual plan is fit for individual user who wants to try Liz SaaS AI assistants.&lt;/div&gt;" vertex="1">
+        <mxCell id="RHf5sMRdeheEGJzrVJ9H-60" parent="RHf5sMRdeheEGJzrVJ9H-32" style="rounded=0;whiteSpace=wrap;html=1;" value="Plan introduction:&lt;div&gt;This enterprise cloud plan is fit for enterprise tenants that who need Liz AI assistant on the cloud environment. The cloud plan can integrate with IAM within the tenant organization.&lt;/div&gt;" vertex="1">
           <mxGeometry height="79" width="545" x="233" y="249" as="geometry" />
         </mxCell>
         <mxCell id="RHf5sMRdeheEGJzrVJ9H-61" parent="RHf5sMRdeheEGJzrVJ9H-32" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" value="Choose it" vertex="1">
